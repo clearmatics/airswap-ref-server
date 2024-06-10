@@ -14,7 +14,7 @@
     "prettier": "prettier --write \"./**/*.ts\""
   },
   "dependencies": {
-    "@airswap/libraries": "4.3.4",
+    "@airswap/libraries": "https://github.com/clearmatics/airswap-protocols/releases/download/pcgc-v1/airswap-libraries-4.3.4.tgz",
     "@airswap/stores": "4.3.2",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
