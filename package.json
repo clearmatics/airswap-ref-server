@@ -1,6 +1,6 @@
 {
   "name": "airswap-ref-server",
-  "version": "4.0.0-autonity.1",
+  "version": "4.0.0-autonity.2",
   "private": true,
   "main": "api/index.js",
   "engines": {
@@ -14,8 +14,8 @@
     "prettier": "prettier --write \"./**/*.ts\""
   },
   "dependencies": {
-    "@airswap/libraries": "https://github.com/clearmatics/airswap-protocols/releases/download/pcgc-r6.1/airswap-libraries-4.3.4-autonity.1.tgz",
-    "@airswap/stores": "https://github.com/clearmatics/airswap-protocols/releases/download/pcgc-r6.1/airswap-stores-4.3.2-autonity.1.tgz",
+    "@airswap/libraries": "https://github.com/clearmatics/airswap-protocols/releases/download/pcgc-r6.2/airswap-libraries-4.3.4-autonity.4.tgz",
+    "@airswap/stores": "https://github.com/clearmatics/airswap-protocols/releases/download/pcgc-r6.2/airswap-stores-4.3.2-autonity.2.tgz",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "dotenv": "^16.4.4",
